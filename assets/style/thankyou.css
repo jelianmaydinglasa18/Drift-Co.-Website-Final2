@@ -1,0 +1,12 @@
+#thankyou {
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+
+#thankyou h1 {
+  font-size: 42px;
+  margin-bottom: 24px;
+}
